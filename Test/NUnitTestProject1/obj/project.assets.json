@@ -4636,11 +4636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CheKnights\\SudokoSolver\\Test\\NUnitTestProject1\\NUnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CheKnights\\SudokoSolver\\Test\\NUnitTestProject1\\NUnitTestProject1.csproj",
       "projectName": "NUnitTestProject1",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\CheKnights\\SudokoSolver\\Test\\NUnitTestProject1\\NUnitTestProject1.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\CheKnights\\SudokoSolver\\Test\\NUnitTestProject1\\NUnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Source\\Repos\\CheKnights\\SudokoSolver\\Test\\NUnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\CheKnights\\SudokoSolver\\Test\\NUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4656,8 +4656,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Source\\Repos\\CheKnights\\SudokoSolver\\SudokuSolver.csproj": {
-              "projectPath": "C:\\Users\\User\\Source\\Repos\\CheKnights\\SudokoSolver\\SudokuSolver.csproj"
+            "C:\\Users\\User\\source\\repos\\CheKnights\\SudokoSolver\\SudokuSolver.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\CheKnights\\SudokoSolver\\SudokuSolver.csproj"
             }
           }
         }

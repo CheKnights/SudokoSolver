@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jyPuLBUVAMaIeSnWVz80Uc1mQ8DRWKvU0glpvY32T8UQHjUeDyr0i2IHs5nunD8de/cmPtOAA0KquEjAJqtMTQ==",
+  "dgSpecHash": "v/4+td/2k8/cJM4zZf3iOJJs8MJoisLGLNYdzZA3NJT4clyotSIY1tEZV8UoBPzxSB5w+gMdBtyUmU5cDcJy6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\CheKnights\\SudokoSolver\\SudokuSolver.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\CheKnights\\SudokoSolver\\SudokuSolver.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
