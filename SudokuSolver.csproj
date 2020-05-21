@@ -6,8 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ConsoleCaller\**" />
     <Compile Remove="Test\**" />
+    <EmbeddedResource Remove="ConsoleCaller\**" />
     <EmbeddedResource Remove="Test\**" />
+    <None Remove="ConsoleCaller\**" />
     <None Remove="Test\**" />
   </ItemGroup>
 

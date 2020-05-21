@@ -14,12 +14,10 @@ C:\Users\User\source\repos\SudokuSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netc
 C:\Users\User\source\repos\SudokuSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Users\User\source\repos\SudokuSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\User\source\repos\SudokuSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
-C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
-C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
-C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
-C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
 C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
 C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
 C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
@@ -29,4 +27,6 @@ C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\bin
 C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\bin\Debug\netcoreapp3.1\SudokuSolver.dll
 C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\bin\Debug\netcoreapp3.1\SudokuSolver.pdb
 C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\User\source\repos\CheKnights\SudokoSolver\ConsoleCaller\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

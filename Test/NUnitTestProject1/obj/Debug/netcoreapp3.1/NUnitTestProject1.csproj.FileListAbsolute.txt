@@ -98,17 +98,15 @@ C:\Users\User\source\repos\SudokuSolver\Test\NUnitTestProject1\obj\Debug\netcore
 C:\Users\User\source\repos\SudokuSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.pdb
 C:\Users\User\source\repos\SudokuSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.genruntimeconfig.cache
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csprojAssemblyReference.cache
-C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.AssemblyInfo.cs
-C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.dll
-C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.pdb
+C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\Debug\netcoreapp3.1\nunit.engine.dll
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\Debug\netcoreapp3.1\testhost.exe
-C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProject1.deps.json
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProject1.runtimeconfig.json
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\Debug\netcoreapp3.1\NUnitTestProject1.runtimeconfig.dev.json
@@ -195,4 +193,6 @@ C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\De
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\Debug\netcoreapp3.1\SudokuSolver.dll
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\bin\Debug\netcoreapp3.1\SudokuSolver.pdb
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.csproj.CopyComplete
+C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.dll
+C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.pdb
 C:\Users\User\source\repos\CheKnights\SudokoSolver\Test\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.genruntimeconfig.cache
